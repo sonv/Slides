@@ -67,21 +67,21 @@ Fulbright University Vietnam Open House
 
 
 <section>
-    <img data-src="Demo-class/dating/tinder.webp" height="20%" width="20%">
-<img data-src="Demo-class/dating/bumble.png" height="20%" width="20%">
-<img data-src="Demo-class/dating/hinge.png" height="20%" width="20%" style="filter: invert(100%);-webkit-filter: invert(100%);">
-<img data-src="Demo-class/dating/facebook.jpeg" height="20%" width="20%">
+    <img data-src="RationalLove/dating/tinder.webp" height="20%" width="20%">
+<img data-src="RationalLove/dating/bumble.png" height="20%" width="20%">
+<img data-src="RationalLove/dating/hinge.png" height="20%" width="20%" style="filter: invert(100%);-webkit-filter: invert(100%);">
+<img data-src="RationalLove/dating/facebook.jpeg" height="20%" width="20%">
 </section>
 
 
 
 <section>
-    <img data-src="Demo-class/dating/cavalier.jpeg" height="50%" width="50%">
+    <img data-src="RationalLove/dating/cavalier.jpeg" height="50%" width="50%">
 </section>
 
 
 <section>
-    <img data-src="Demo-class/dating/monalisa.jpeg" height="50%" width="50%">
+    <img data-src="RationalLove/dating/monalisa.jpeg" height="50%" width="50%">
 </section>
 
 
@@ -185,7 +185,7 @@ TASK: Match them up in a way that creates a stable equilbrium.
 <section>
 <h3>Destroying the stability...</h3>
 
-<audio data-autoplay src="Demo-class/dating/amee.wav">
+<audio data-autoplay src="RationalLove/dating/amee.wav">
 </section>
 
 
