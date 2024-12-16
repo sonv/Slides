@@ -1,8 +1,10 @@
 # RATIONAL LOVE 
 
-Fulbright University Vietnam Open House
+Mathematics Day
 
-10/03/2024
+American Center
+
+Dec 19, 2024
 
 
 
