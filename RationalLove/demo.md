@@ -38,7 +38,7 @@ Dec 19, 2024
 </section>
 <section data-auto-animate>
     <h1>BUSINESS</h1>
-    <h2> Groups of 4 or 5</h2>
+    <h2> Groups of 5 or 6</h2>
 </section>
 
 
@@ -186,8 +186,6 @@ TASK: Match them up in a way that creates a stable equilbrium.
 
 <section>
 <h3>Destroying the stability...</h3>
-
-<audio data-autoplay src="RationalLove/dating/amee.wav">
 </section>
 
 
@@ -208,7 +206,7 @@ TASK: Match them up in a way that creates a stable equilbrium.
 | 1 | Elon        | Elon     | Travis   | Elon     |
 | 2 | Cavalier    | Leon     | Elon     | Cavalier |
 | 3 | Leon        | Cavalier | Cavalier | Travis   |
-| 4 | Erik        | Travis   | Leon     | Leon     |
+| 4 | Travis        | Travis   | Leon     | Leon     |
 </section>
 
 
@@ -223,14 +221,35 @@ Each man rejects the ones that are not top in their lists.</li>
 Each man rejects the ones that are not top in their lists (free to break the previous match).</li>
 
 <li class="fragment"> Repeat the process until everyone is matched. </li>
-
-<p class="fragment"> Gale-Shapley Algorithm. Nobel Prize in Economics in 2012. </p>
 </ol>
 
 
 
-### The mathematics 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/LtTV6rIxhdo?si=DeHDrtufeNcyXasr" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<section>
+<h3>Test it out</h3>
+<h4 class="fragment">Round 1</h4>
+<ul>
+    <li class="fragment"> Elon gets letter(s) from: <span class="fragment"> Madame Lisa, Pearl, Amee </span>  </li>
+    <li class="fragment"> Travis gets letter(s) from: <span class="fragment"> Taylor </span>  </li>
+    <li class="fragment"> Leon and Cavalier:  <span class="fragment"> :( </span>  </li>
+</ul>
+<p class="fragment">Couples</p>
+<p class="fragment"> Elon & Madame Lisa, Travis & Taylor  </p>
+</section>
+
+
+
+<section>
+<h3>Test it out</h3>
+<p class="fragment">Round 2</p>
+<ul>
+    <li class="fragment"> Leon gets letter(s) from:  <span class="fragment"> Pearl  </span>  </li>
+    <li class="fragment"> Cavalier gets letter(s) from:  <span class="fragment"> Amee  </span>  </li>
+</ul>
+<p class="fragment">Couples: </p>
+<p class="fragment"> Elon & Madame Lisa, Travis & Taylor, Pearl & Leon, Amee & Cavalier  </p>
+<p class="fragment"> Happily Ever After!  </p>
+</section>
 
 
 
@@ -241,6 +260,7 @@ Each man rejects the ones that are not top in their lists (free to break the pre
     <li class="fragment"> College dorm assignments </li>
     <li class="fragment"> Kidney donation</li>
 </ul>
+<p class="fragment"> Gale-Shapley Algorithm. Nobel Prize in Economics in 2012. </p>
 
 
 
@@ -262,3 +282,8 @@ Each man rejects the ones that are not top in their lists (free to break the pre
 
 
 # Q \& A
+
+
+### The mathematics 
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/LtTV6rIxhdo?si=DeHDrtufeNcyXasr" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
